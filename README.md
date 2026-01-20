@@ -1,6 +1,6 @@
-# Flowers-blooming
-Animation of flowers blooming
+Flori înflorite
+Animație cu flori înflorite
 
 Acces: https://raul1805.github.io/Flowers-blooming/
 
-Enjoy! ^_^
+Vizionare plăcută! ^_^
